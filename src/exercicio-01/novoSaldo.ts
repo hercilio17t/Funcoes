@@ -12,8 +12,6 @@ Sua função deve RETORNAR o novo saldo do usuário.
 Para evitar erros de implementação, você deve tipar as entradas e o retorno da função.
 */
 
-// IMPLEMENTE AQUI A SUA FUNÇÃO
-
 const calcularNovoSaldo = (saldoAtual: number, valor: number) => {
     return saldoAtual + valor
 }
